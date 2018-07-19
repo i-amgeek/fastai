@@ -1,7 +1,7 @@
 from IPython.lib.deepreload import reload as dreload
 import PIL, os, numpy as np, math, collections, threading, json, bcolz, random, scipy, cv2
 import pandas as pd, pickle, sys, itertools, string, sys, re, datetime, time, shutil, copy
-import seaborn as sns, matplotlib
+import matplotlib
 import IPython, graphviz, sklearn_pandas, sklearn, warnings, pdb
 import contextlib
 from abc import abstractmethod
